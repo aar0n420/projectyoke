@@ -7,7 +7,7 @@
 		<input type="radio" name="Yes" value="Yes">Yes<br>
 		<input type="radio" name="No" value="No">No<br>
 		
- 		Whats the criac:<br>
+ 		Whats the craic:<br>
 		<input type="radio" name="Yes" value="Yes">Yes<br>
 		<input type="radio" name="No" value="No">No<br>
 		
